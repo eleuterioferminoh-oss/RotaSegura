@@ -1,7 +1,6 @@
 # Sistema de Locação "Rota Segura" — TP1
 
-**Nome completo:** [SEU NOME COMPLETO AQUI]  
-**Matrícula:** [SUA MATRÍCULA AQUI]
+Aluno: Hugo Eleutério Fermino
 
 ---
 
