@@ -1,6 +1,6 @@
 # Sistema de Locação "Rota Segura" — TP1
 
-Aluno: Hugo Eleutério Fermino
+Nome: Hugo Eleutério Fermino
 
 ---
 
