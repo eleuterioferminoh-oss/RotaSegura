@@ -1,8 +1,6 @@
 # Sistema de Locação "Rota Segura" — TP1
 
-Nome: Hugo Eleutério Fermino
 
----
 
 ## 1. Resumo da Arquitetura
 
